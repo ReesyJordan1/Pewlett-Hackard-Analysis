@@ -11,7 +11,7 @@ In this project, I explored and analyzed the employee database of a Pewlett-Hack
 
 The table below shows the database schema which reflects the original tables presented in our database as well as the relationships amongst these tables. During the analysis, more tables are created and added to the database.
 
-![alt text](ERD_Schema.png)
+![alt text](ERD_schema.png)
 
 ## Results
 
